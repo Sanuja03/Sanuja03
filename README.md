@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13203B,100:0B7A66&height=200&section=header&text=Sanuja%20Alphonsus&fontSize=46&fontColor=F7F6F2&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20IT%20%26%20Management%20%40%20University%20of%20Moratuwa&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <a href="https://sanujaalphonsus.com.lk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7FD1BF&center=true&vCenter=true&width=640&lines=Building+full-stack+apps+with+Spring+Boot+%26+React;Docker%2C+RabbitMQ%2C+REST+APIs+%26+AI+integrations;Final-year+project%3A+AI+API+cost+observability;Open+to+Software+Engineering+internships" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7FD1BF&center=true&vCenter=true&width=640&lines=Building+full-stack+apps+with+Spring+Boot+%26+React;Open+to+Software+Engineering+internships" alt="Typing intro"/>
 </a>
 
 <p>
