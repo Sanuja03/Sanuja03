@@ -1,0 +1,20 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Change this to your blog's RSS/Atom feed URL (and add a Medium feed later, comma-separated)
+          feed_list: "https://sanujaalphonsus.com.lk/rss.xml"
+          max_post_count: 4
