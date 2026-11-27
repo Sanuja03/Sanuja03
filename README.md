@@ -33,6 +33,7 @@
 ### ✍️ Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Reading Data from a TCRT5000 Sensor: From Testing to Integration | Sanuja Alphonsus](https://medium.com/@nimsith/reading-data-from-a-tcrt5000-sensor-from-testing-to-integration-sanuja-alphonsus-29d939d0cbbe?source=rss-4d13af921394------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
